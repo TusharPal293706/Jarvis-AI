@@ -16,7 +16,7 @@ Mainly, I have used Natural Language processing for understanding text and Compu
 recognize gestures and people. I have used Python in Jarvis as it is highly recommended for Data
 science.
 
-Full Description
+Features
 
 • Automated frequent tasks such as writing notes, sending mails, opening apps, etc.
 • Gestures to make computer understand things easily without speaking.
